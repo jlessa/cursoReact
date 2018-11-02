@@ -6,5 +6,5 @@ export default props =>
     <Main icon="fa fa-home" title="Início" subtitle="Cap 2 React">
         <div className="display-4">Bem Vindo</div>
         <hr/>
-        <p className="mb-0">Sistema para Jogos</p>
+        <p className="mb-0">Sistema para Usuários</p>
     </Main>
